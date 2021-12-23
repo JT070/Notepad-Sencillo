@@ -1,0 +1,37 @@
+C:\Users\PC\Documents\SharpDevelop Projects\Programa 2\Programa 2\bin\Debug\Programa 2.exe.config
+C:\Users\PC\Documents\SharpDevelop Projects\Programa 2\Programa 2\bin\Debug\Programa 2.exe
+C:\Users\PC\Documents\SharpDevelop Projects\Programa 2\Programa 2\bin\Debug\Programa 2.pdb
+C:\Users\PC\Documents\SharpDevelop Projects\Programa 2\Programa 2\obj\Debug\Programa 2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\SharpDevelop Projects\Programa 2\Programa 2\obj\Debug\Programa 2.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\SharpDevelop Projects\Programa 2\Programa 2\obj\Debug\Programa 2.exe
+C:\Users\PC\Documents\SharpDevelop Projects\Programa 2\Programa 2\obj\Debug\Programa 2.pdb
+C:\Users\PC\Documents\SharpDevelop Projects\Programa 2\Programa 2\obj\Debug\Programa_2.AcercaDe.resources
+C:\Users\PC\Documents\SharpDevelop Projects\Programa 2\Programa 2\obj\Debug\Programa_2.MainFormNP.resources
+C:\Users\PC\Documents\SharpDevelop Projects\Programa 2\Programa 2\bin\Debug\InputKey.dll
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\bin\Debug\Programa 2.exe.config
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\bin\Debug\Programa 2.exe
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\bin\Debug\Programa 2.pdb
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\obj\Debug\Programa 2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\obj\Debug\Programa_2.MainFormNP.resources
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\obj\Debug\Programa 2.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\obj\Debug\Programa 2.exe
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\obj\Debug\Programa 2.pdb
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\obj\Debug\Programa_2.txtAcercaDe.resources
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\bin\Debug\Programa 2.exe.config
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\bin\Debug\Programa 2.exe
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\bin\Debug\Programa 2.pdb
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\obj\Debug\Programa 2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\obj\Debug\Programa_2.txtAcercaDe.resources
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\obj\Debug\Programa_2.MainFormNP.resources
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\obj\Debug\Programa 2.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\obj\Debug\Programa 2.exe
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Bloc de Notas\Programa 2\Programa 2\obj\Debug\Programa 2.pdb
+C:\Users\PC\Desktop\JT\GitHub\C#\Bloc de Notas\Programa 2\bin\Debug\Programa 2.exe.config
+C:\Users\PC\Desktop\JT\GitHub\C#\Bloc de Notas\Programa 2\bin\Debug\Programa 2.exe
+C:\Users\PC\Desktop\JT\GitHub\C#\Bloc de Notas\Programa 2\bin\Debug\Programa 2.pdb
+C:\Users\PC\Desktop\JT\GitHub\C#\Bloc de Notas\Programa 2\obj\Debug\Programa 2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\JT\GitHub\C#\Bloc de Notas\Programa 2\obj\Debug\Programa_2.txtAcercaDe.resources
+C:\Users\PC\Desktop\JT\GitHub\C#\Bloc de Notas\Programa 2\obj\Debug\Programa_2.MainFormNP.resources
+C:\Users\PC\Desktop\JT\GitHub\C#\Bloc de Notas\Programa 2\obj\Debug\Programa 2.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\JT\GitHub\C#\Bloc de Notas\Programa 2\obj\Debug\Programa 2.exe
+C:\Users\PC\Desktop\JT\GitHub\C#\Bloc de Notas\Programa 2\obj\Debug\Programa 2.pdb
